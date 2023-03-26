@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Initials.unity
+    guid: 834483dbded976b46a997b7d5def460e
+  - enabled: 1
+    path: Assets/Scenes/Opening_Scene.unity
+    guid: 09fd11418520f2c4f89a6c87c8c516e6
+  - enabled: 1
+    path: Assets/Scenes/PacMan.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/PacManTail.unity
+    guid: e25070019ee1851438cf7b67a9ff100a
+  - enabled: 1
+    path: Assets/Scenes/interstitial.unity
+    guid: 7df37e6a5a1acd6439d8d43aa44812a7
+  - enabled: 1
+    path: Assets/Scenes/ending.unity
+    guid: f3e10ccfa4208d348b1400070f65d6cd
+  m_configObjects: {}
